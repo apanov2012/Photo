@@ -22,3 +22,7 @@ html, body
 {
     background-image: url(images/KTM_photo.jpg);
 }
+.hide
+{
+    display: flex;
+}
