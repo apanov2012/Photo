@@ -1,0 +1,24 @@
+html, body
+{
+    height: 100%;
+    margin: 0 0;
+    padding: 0 0;
+}
+.screen
+{
+    height: 100%;
+    width: 100%;
+    background-size: 100% 100%;
+}
+.screen1
+{
+    background-image: url(images/ATAS_photo.jpg);
+}
+.screen2
+{
+    background-image: url(images/GS1250_photo.jpg);
+}
+.screen3
+{
+    background-image: url(images/KTM_photo.jpg);
+}
